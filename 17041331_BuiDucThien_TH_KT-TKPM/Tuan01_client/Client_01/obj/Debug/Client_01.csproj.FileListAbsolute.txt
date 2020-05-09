@@ -1,0 +1,5 @@
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01_client\Client_01\bin\Debug\Client_01.exe.config
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01_client\Client_01\bin\Debug\Client_01.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01_client\Client_01\bin\Debug\Client_01.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01_client\Client_01\obj\Debug\Client_01.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01_client\Client_01\obj\Debug\Client_01.pdb

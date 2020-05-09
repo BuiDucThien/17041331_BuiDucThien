@@ -1,0 +1,6 @@
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01\Server_01\bin\Debug\Server_01.exe.config
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01\Server_01\bin\Debug\Server_01.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01\Server_01\bin\Debug\Server_01.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01\Server_01\obj\Debug\Server_01.csprojResolveAssemblyReference.cache
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01\Server_01\obj\Debug\Server_01.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\17041331_BuiDucThien_TH_KT-TKPM\Tuan01\Server_01\obj\Debug\Server_01.pdb
